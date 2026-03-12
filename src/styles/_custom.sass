@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 71%
+    right: 81%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 52%
+    right: 47%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
+    right: 8%
 
 @keyframes float1
   0%
@@ -30,7 +35,7 @@ figcaption
   font-weight: normal
 
 .banner-principal__row .banner-principal__img
-  width: 500px !important
+  width: 600px !important
   @media screen and (max-width: $bp-max-xl)
     width: 400px !important
 
@@ -43,3 +48,81 @@ figcaption
     background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
   @media screen and (max-width: $bp-max-sm)
     background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
+  
+//////////Background_Color///////////
+.bg-color
+  &-1
+    background-color: #C2D0F8 !important
+  &-2
+    background-color: #DEEAFF
+  &-3
+    background-color: #F0F3FD
+  &-4
+    color: #F4B400 !important
+  &-5
+    background-color: #E9ECF2
+  &-6
+    background-color: #FFF9E2 !important
+  &-white
+    background-color: white !important
+    border: 1px solid $lightest-gray
+  &-secundario
+    background-color: $color-secundario !important
+  &-sintesis
+    background-color: #F6F6F6
+
+///////Full Width Background///////////////////
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+.bg-full-width-2
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+
+///////////////fondos/////////////////
+.bg-fondo
+  &-1
+    background-image: url("../assets/curso/bg1.png") !important
+    background-position: top
+  &-2
+    // background-image: url("../assets/bg/bg2.png") !important
+    background-position: bottom
+  &-slider
+    //background-image: url("../assets/bg/bg-slider.png") !important
+    background-position: bottom
+
+/////////IMG_100%_CAJON_MEDIO/////////
+.pst
+  position: relative
+  z-index: 2
+.banner-text
+  background-color: #FCEDF9
+  border-radius: 10px
+  padding: 20px 30px
+  margin-top: -60px
+  @media screen and (max-width: $bp-max-sm)
+    margin-top: -10px
+  
+//////////////CUSTOM AVATAR-LEFT//////////////
+.tarjeta-avatar-b__img
+  min-width: 25%
+  @media screen and ( max-width: $bp-max-sm )
+    min-width: auto
+.tarjeta--azul 
+  background-color: #F0F3FD
+  border: 3px solid #678AEE
+
+//////////////posicion img avatar//////////
+.pst
+  top: 0
+  right: 0
