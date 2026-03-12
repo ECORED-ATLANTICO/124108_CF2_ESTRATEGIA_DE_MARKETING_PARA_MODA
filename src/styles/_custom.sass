@@ -56,13 +56,39 @@ figcaption
   &-2
     background-color: #DEEAFF
   &-3
-    background-color: #F0F3FD
+    background-color: #F0F3FD !important
   &-4
     color: #F4B400 !important
   &-5
     background-color: #E9ECF2
   &-6
     background-color: #FFF9E2 !important
+  &-7
+    background-color: #E2E7F7
+  &-8
+    background-color: #F1F6F9
+  &-9
+    background-color: #FCEDF9 !important
+  &-10
+    background-color: #FFECB1
+  &-11
+    background-color: #DFE0E2
+  &-12
+    background-color: #D6E1FF
+  &-13
+    background-color: #EAF0FA
+  &-14
+    background-color: #E1E7FB
+  &-15
+    background-color: #FCEDF8
+  &-16
+    background-color: #F1F3FB
+  &-17
+    background-color: #F3F9FF
+  &-18
+    color: #678AEE !important
+  &-19
+    background-color: #FFF1C9 !important
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -95,7 +121,7 @@ figcaption
     background-image: url("../assets/curso/bg1.png") !important
     background-position: top
   &-2
-    // background-image: url("../assets/bg/bg2.png") !important
+    background-image: url("../assets/curso/bg2.png") !important
     background-position: bottom
   &-slider
     //background-image: url("../assets/bg/bg-slider.png") !important
@@ -126,3 +152,94 @@ figcaption
 .pst
   top: 0
   right: 0
+  &-1
+    top: -25px
+    left: -25px
+    @media screen and ( max-width: $bp-max-xs )
+      top: -25px
+      left: 80%
+
+.bloque-texto-b.color-secundario:before 
+  background-color: #FFF9E2
+
+/////////////ACORDION/////////////
+.acordion__accion__btn--a
+  background-color: #FFD256 !important
+  color: $color-sistema-texto
+.acordion__activo
+  background-color: #F4F5F6 !important
+.acordion_titulo
+  color: #fff !important
+.acordion__titulo 
+  h3
+    color: $color-sistema-texto  !important
+.acordion__activo
+  .acordion__titulo 
+    h3
+      color: $color-sistema-texto !important
+    
+.img-infografica__card
+  width: auto
+
+/////////CUSTOM TABS-C//////////
+.tabs-c__header 
+  margin-bottom: 0
+.tabs-c__content-item
+  background-color: #F7F7F7
+
+////////SOMBRA CAJON//////////
+.box-shadow
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  padding: 20px;
+
+//////////CUSTOM BOTONES SLYDER-F/////////
+.slyder-f__btn
+  height: 35px
+  width: 35px
+  max-width: 35px
+  background-color: $color-acento-botones
+  border-radius: 50%
+  padding: 0 !important
+  margin: 0 auto
+  .fa-chevron-left
+    font-size: 20px
+  .fa-chevron-right
+    font-size: 20px
+  
+.slyder-f
+    align-items: center
+
+    .slyder-f__main
+      width: 70%
+
+      @media (min-width: 769px)
+        width: 80%
+
+//////////////CUSTOM TABS-A/////////////
+.tabs-a.color-acento-botones .tabs-a__tab__selected 
+  background-color: #FFD256
+  color: $color-sistema-texto
+.tabs-a__tab
+  background-color: #F1F6FF
+.tarjeta.color-acento-botones--borde
+  background-color: #E2E7F7
+  border: solid 4px #E2E7F7
+
+////////////AJUSTE TAMAÑO CONTERNEDOR IZQUIERO TABS-A//////////
+.tabs-a
+  @media (min-width: 1200px) 
+    .row
+      .col-xl-3 
+        flex: 0 0 auto
+        width: 38%
+      .col-xl-9
+        flex: 0 0 auto
+        width: 62%
+  @media (min-width: 992px) 
+    .row
+      .col-lg-4 
+        flex: 0 0 auto
+        width: 41%
+      .col-lg-8 
+        flex: 0 0 auto
+        width: 59%

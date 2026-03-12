@@ -87,7 +87,6 @@ export default {
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-play-circle',
             numero: '4.1',
             titulo: 'Tipos de estrategias',
             hash: 't_4_1',
