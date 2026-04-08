@@ -25,10 +25,10 @@
           .col-lg-12
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 2.
-              span Estructura de la estrategia digital.
+              span Estructura de la estrategia digital
             img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/3.svg", alt="TEXTOALT")
             img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/3-1.svg", alt="TEXTOALT")
-            figcaption <strong>Fuente:</strong> SENA, 2026
+            figcaption <strong>Nota:</strong> adaptada de Giu, W. (2018). Qué es una estrategia digital.
         
         separador
         
@@ -40,25 +40,28 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema4/4.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Hay una amplia variedad de opciones que las empresas pueden adoptar como estrategia digital para el logro de sus objetivos propuestos, todo esto teniendo en cuenta las herramientas con las que cuenta, el público al cual se dirige y el entorno en el que se desenvuelve. Según Xie (2019), algunas estrategias destacadas y sus objetivos se presentan en el siguiente video:
+            p.d-block Hay una amplia variedad de opciones que las empresas pueden adoptar como estrategia digital para el logro de sus objetivos propuestos, todo esto teniendo en cuenta las herramientas con las que cuenta, el público al cual se dirige y el entorno en el que se desenvuelve. 
+            p.mb-0 Según Xie (2019), algunas estrategias destacadas y sus objetivos se presentan en el siguiente video:
     
     figure
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/U2juCftBrTo" title="Tipos de estrategias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption <strong>Nota.</strong> Adaptado de Xie (2019). Marketing digital: navegando en aguas digitales, sumérgete conmigo.
 
     separador
     
     .bg-full-width.bg-fondo-1
       .px-4.px-lg-5
         #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 4.2 Plan de marketing digital
+          h2 4.2 Plan de #[em marketing] digital
         
         img(src="@/assets/curso/tema4/5.png", alt="Imagen decorativa")
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10(data-aos="fade-up")
-            p.banner-text El plan de marketing digital se puede definir como el plan de ruta para la consecución de una meta determinada, lo que permite un enfoque más preciso en la centralización de todos los esfuerzos por un único objetivo y fomenta la creatividad en la búsqueda de los mejores mecanismos para su desarrollo. Según Xie (2019), se definen los siguientes pasos para un plan de marketing digital:
+            p.banner-text 
+              span.d-block.mb-3 El plan de #[em marketing] digital se puede definir como el plan de ruta para la consecución de una meta determinada, lo que permite un enfoque más preciso en la centralización de todos los esfuerzos por un único objetivo y fomenta la creatividad en la búsqueda de los mejores mecanismos para su desarrollo. 
+              span.d-block Según Xie (2019), se definen los siguientes pasos para un plan de #[em marketing] digital:
         
         .row.mb-5.justify-content-center.align-items-center
           .col-lg-4.mb-3.mb-lg-0
@@ -73,7 +76,7 @@
                       img(src='@/assets/curso/tema4/7.svg', alt='')
           
                 h3.bg-color-9.p-3.mb-4.text-center Análisis de la marca
-                p.text-center Para marcar la ruta a seguir, como primera medida, se debe conocer la marca en todos sus aspectos. Partiendo de esto, se desarrolla una matriz DOFA (Debilidades, Oportunidades, Fortalezas y Amenazas).
+                p.text-center Para marcar la ruta a seguir, como primera medida, se debe conocer la marca en todos sus aspectos. Partiendo de esto, se desarrolla una matriz DOFA (debilidades, oportunidades, fortalezas y amenazas).
 
               .tarjeta.bg-color-sintesis.p-4.box-shadow
                 .row.justify-content-center.mb-3
@@ -113,7 +116,7 @@
                     figure
                       img(src='@/assets/curso/tema4/12.svg', alt='')
           
-                h3.bg-color-9.p-3.mb-4.text-center Establecer los objetivos del marketing
+                h3.bg-color-9.p-3.mb-4.text-center Establecer los objetivos del #[em marketing]
                 p.text-center Definir los objetivos específicos que se espera lograr de determinada campaña.
               .tarjeta.bg-color-sintesis.p-4.box-shadow
                 .row.justify-content-center.mb-3
@@ -137,7 +140,7 @@
                     figure
                       img(src='@/assets/curso/tema4/15.svg', alt='')
           
-                h3.bg-color-9.p-3.mb-4.text-center Seguimiento del plan de marketing
+                h3.bg-color-9.p-3.mb-4.text-center Seguimiento del plan de #[em marketing]
                 p.text-center Constantemente, se deben revisar las actividades desarrolladas para que concuerden con los objetivos propuestos, identificar si se alejan o siguen el camino propuesto, con el fin de ajustar o mejorar.
 
 

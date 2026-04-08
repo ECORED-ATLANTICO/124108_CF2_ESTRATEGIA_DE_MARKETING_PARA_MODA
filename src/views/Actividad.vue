@@ -44,7 +44,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -67,7 +67,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -90,7 +90,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -113,7 +113,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -136,14 +136,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 6,
           texto:
-            'El e-mail marketing consiste en enviar mensajes promocionales mediante correo electrónico.',
+            'El <em>e-mail marketing</em> consiste en enviar mensajes promocionales mediante correo electrónico.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -159,14 +159,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 7,
           texto:
-            'El social media solo incluye páginas web corporativas sin interacción social.',
+            'El <em>social media</em> solo incluye páginas web corporativas sin interacción social.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -182,14 +182,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 8,
           texto:
-            'La publicidad online utiliza la televisión como canal para promocionar productos.',
+            'La publicidad <em>online</em> utiliza la televisión como canal para promocionar productos.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -205,7 +205,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -228,7 +228,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -251,7 +251,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -274,7 +274,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -297,14 +297,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 13,
           texto:
-            'La estrategia digital incluye definir objetivos del marketing y segmentar clientes.',
+            'La estrategia digital incluye definir objetivos del <em>marketing</em> y segmentar clientes.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -320,14 +320,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 14,
           texto:
-            'El plan de marketing digital no requiere seguimiento de actividades.',
+            'El plan de <em>marketing</em> digital no requiere seguimiento de actividades.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -343,7 +343,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -365,7 +365,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -388,7 +388,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -411,7 +411,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -434,7 +434,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -457,7 +457,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -480,7 +480,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },

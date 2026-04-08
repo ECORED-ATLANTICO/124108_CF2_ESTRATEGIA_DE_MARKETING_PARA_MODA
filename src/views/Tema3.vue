@@ -14,7 +14,7 @@
             .col-lg-3.mb-3.mb-lg-0
               img.d-lg-flex.d-none(src="@/assets/curso/tema3/1.png").mx-auto
             .col-lg-7
-              p.mb-0 Para entender el significado de Search Engine Optimization (SEO) y Search Engine marketing (SEM), es importante conocer que, al momento de consultar acerca de un tema en específico, es normal dirigirse a Google y en la barra principal digitar la palabra clave que uno cree lo puede llevar al sitio web de su interés. Este elemento, que se usa con total normalidad, detona un mecanismo dentro de Google denominado “motor de búsqueda”, el cual recopila la información existente en los sitios web y dirige hacia los distintos lugares donde se cree es posible encontrar todo lo que se necesita, teniendo en cuenta la palabra clave.
+              p.mb-0 Para entender el significado de <em>Search Engine Optimization (SEO)</em> y <em>Search Engine marketing (SEM)</em>, es importante conocer que, al momento de consultar acerca de un tema en específico, es normal dirigirse a Google y en la barra principal digitar la palabra clave que uno cree lo puede llevar al sitio web de su interés. Este elemento, que se usa con total normalidad, detona un mecanismo dentro de Google denominado “motor de búsqueda”, el cual recopila la información existente en los sitios web y dirige hacia los distintos lugares donde se cree es posible encontrar todo lo que se necesita, teniendo en cuenta la palabra clave.
         
         .row.mb-5.justify-content-center
           .col-sm-6.col-lg-6.mb-4.mb-lg-0(data-aos="fade-up")
@@ -35,7 +35,7 @@
                     img(src='@/assets/curso/tema3/3.svg', alt='')
                 .col-10
                   h3 SEM
-              p Por otro lado, según el portal web Cyberclick (Cyberclick Academy, 2020), se denomina SEM a las campañas de anuncios pagados desarrolladas en los buscadores y se muestran en la parte superior derecha. Este es un gran plus para las campañas digitales, posicionándolas en primer lugar de búsqueda, siempre y cuando el anunciante tenga un presupuesto definido para esta estrategia, en la que se cobra por cada clic que realicen los usuarios.
+              p Por otro lado, según el portal web Cyberclick (Cyberclick Academy, 2020), se denomina SEM a las campañas de anuncios pagados desarrolladas en los buscadores y se muestran en la parte superior derecha. Este es un gran <em>plus</em> para las campañas digitales, posicionándolas en primer lugar de búsqueda, siempre y cuando el anunciante tenga un presupuesto definido para esta estrategia, en la que se cobra por cada clic que realicen los usuarios.
 
         .bloque-texto-g.color-secundario.bg-color-1.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(

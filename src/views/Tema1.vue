@@ -63,13 +63,13 @@
                     img(src="@/assets/curso/tema1/5.png", data-aos="zoom-in")
                   .col-lg-9
                     p Se podrían definir como los medios más importantes para tener presencia en Internet, donde una marca o una empresa puede generar su propia voz, creando un espacio propio de información y diseñando experiencias únicas para sus usuarios. Estos medios están constituidos por contenidos, canales o espacios que una marca posee para ofrecer un producto o servicio en la web.
-                p.ms-5 Al hablar de medios propios, es preciso mencionar páginas web, aplicaciones móviles, <em>micrositios</em> creados para llegar a públicos muy segmentados, <em>blogs</em> o SEO. Todos ellos hacen referencia a los medios para captar usuarios orgánicamente, a través de la producción de contenidos que permitan la interacción o la publicación de elementos de opinión, además de las estrategias para posicionar la empresa o marca que desea tener un espacio en la web (Adventures Digital Agency, 2018).
+                p.ms-5 Al hablar de medios propios, es preciso mencionar páginas web, aplicaciones móviles, micrositios creados para llegar a públicos muy segmentados, <em>blogs</em> o SEO. Todos ellos hacen referencia a los medios para captar usuarios orgánicamente, a través de la producción de contenidos que permitan la interacción o la publicación de elementos de opinión, además de las estrategias para posicionar la empresa o marca que desea tener un espacio en la web (Adventures Digital Agency, 2018).
               div(titulo="Medios pagados")
-                p.ms-5 Como su nombre lo indica, son medios que necesitan ser pagados para que una empresa o marca pueda definir mayor presencia en Internet, lo cual permite segmentar adecuadamente el público al cual se desea llegar, siendo un mecanismo muy efectivo y eficaz para lograr los objetivos que se haya propuesto dentro del mundo digital. En otras palabras se define como parte de las estrategias de publicidad pagada, como display, videos y audios (banners publicitarios), Search (posicionamiento de una página web en el motor de búsqueda), Retargeting (seguimiento a usuarios que navegan en la web para generar una conversación), Influencers (persona que cuenta con una audiencia importante de seguidores para promocionar un producto o servicio) y Patrocinios (pagos de contenidos promocionales). (Adventures Digital Agency, 2018)
+                p.ms-5 Como su nombre lo indica, son medios que necesitan ser pagados para que una empresa o marca pueda definir mayor presencia en Internet, lo cual permite segmentar adecuadamente el público al cual se desea llegar, siendo un mecanismo muy efectivo y eficaz para lograr los objetivos que se haya propuesto dentro del mundo digital. En otras palabras se define como parte de las estrategias de publicidad pagada, como <em>display</em>, videos y audios (<em>banners</em> publicitarios), <em>search</em> (posicionamiento de una página web en el motor de búsqueda), <em>retargeting</em> (seguimiento a usuarios que navegan en la web para generar una conversación), <em>influencers</em> (persona que cuenta con una audiencia importante de seguidores para promocionar un producto o servicio) y patrocinios (pagos de contenidos promocionales). (Adventures Digital Agency, 2018)
                 p.ms-5 Estos medios ejercen un impulso para dar a conocer en la web a la empresa o marca que lo requiere. Se enfocan en atraer nuevos usuarios y generan mayor tráfico, lo cual resulta muy beneficioso en conexión con los medios propios.
               div(titulo="Medios ganados")
                 p.ms-5 Mediante la integración de los medios propios y los medios pagados es como se obtienen los medios ganados, que se refieren al voz a voz de todas las conversaciones e interacciones que se generan alrededor de la empresa o marca en cuestión que se desenvuelve en la web. En estos medios es donde se evidencia la confianza y la presencia generada, a partir de la información compartida y las experiencias de los usuarios que participan, dando importancia a la generación de contenido por parte del usuario.
-                p.ms-5 En este punto se destacan las Mentions (menciones de la marca por parte de los usuarios), Shares (contenido de marca que se comparte), Repost (publicación de contenidos que ha hecho la marca), Reviews (crítica o reseña realizada a la marca). (Adventures Digital Agency, 2018).
+                p.ms-5 En este punto se destacan las <em>mentions</em> (menciones de la marca por parte de los usuarios), <em>shares</em> (contenido de marca que se comparte), <em>repost</em> (publicación de contenidos que ha hecho la marca), <em>reviews</em> (crítica o reseña realizada a la marca). (Adventures Digital Agency, 2018).
 
     .bg-full-width.bg-fondo-1
       .px-4.px-lg-5
@@ -77,7 +77,7 @@
           .col-lg-12
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 1.
-              span Los medios convergentes.
+              span Los medios convergentes
             img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/6.svg", alt="TEXTOALT")
             img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/6-1.svg", alt="TEXTOALT")
             figcaption <strong>Nota.</strong> Adaptada de Adventures Digital Agency (2018). Ante todo, definamos términos: ¿Qué es el entorno digital?
@@ -92,7 +92,8 @@
         figure
           img(src="@/assets/curso/tema1/7.png", data-aos="zoom-in")
       .col-lg-8
-        p.mb-0(data-aos="fade-right") De acuerdo con el portal web RockContent (2019), las plataformas digitales son aquellos espacios en la web que permiten la ejecución de diversos programas o aplicaciones con la intención de suplir necesidades de los usuarios y facilitar el desarrollo de tareas. Teniendo en cuenta esto, es como se definen los objetivos específicos de cada una de ellas, como se puede observar a continuación. Podemos distinguir cuatro tipos de plataformas digitales:
+        p(data-aos="fade-right") De acuerdo con el portal web Rock Content (2019), las plataformas digitales son aquellos espacios en la web que permiten la ejecución de diversos programas o aplicaciones con la intención de suplir necesidades de los usuarios y facilitar el desarrollo de tareas. Teniendo en cuenta esto, es como se definen los objetivos específicos de cada una de ellas, como se puede observar a continuación. 
+        p.mb-0 Podemos distinguir cuatro tipos de plataformas digitales:
     
     .row.mb-5.justify-content-center
       .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
@@ -134,7 +135,7 @@
               figure
                 img(src='@/assets/curso/tema1/11.svg', alt='')
     
-          h3.bg-color-9.p-3.mb-4.text-center Plataformas especialidazadas
+          h3.bg-color-9.p-3.mb-4.text-center Plataformas especializadas
           p.text-center Enfocadas en satisfacer necesidades de un determinado público. Pueden ser de distintos tipos.
     
     div.bg-color-8.p-4
@@ -142,7 +143,7 @@
         .col-lg-auto.mb-3.mb-lg-0
           img.d-lg-flex.d-none(src="@/assets/curso/tema1/12.png").mx-auto
         .col-lg
-          p.mb-0 Es importante definir, durante el plan de mercadeo, fases de control periódicas, que pueden implicar modificaciones sobre el plan original, contribuyendo a la competitividad de la empresa.
+          p.mb-0 Las ventajas de usar estas plataformas radican en la optimización del tiempo, el mayor alcance de la información, la facilitación de la medición del desempeño, son más económicas o, incluso, gratuitas, no se necesita ser un experto para su manejo, entre otras.
 
 </template>
 

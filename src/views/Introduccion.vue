@@ -20,16 +20,16 @@
         div.bg-color-2.tarjeta.p-3.d-inline-block.mb-5
           h3.mb-0 ¿Cómo surge este curso?
         
-        p.mb-5 Durante este componente de formación, el <em>marketing digital</em> es el pretexto de aprendizaje y desde donde se direcciona esta experiencia de aprendizaje. Sin embargo, es importante tener presente la información que se puede leer a continuación:
+        p.mb-5 Durante este componente de formación, el <em>marketing</em> digital es el pretexto de aprendizaje y desde donde se direcciona esta experiencia de aprendizaje. Sin embargo, es importante tener presente la información que se puede leer a continuación:
 
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/intro/2.png", data-aos="zoom-in")
           .col-lg-8
-            p El <em>marketing digital</em> ha generado un impacto importante en la sociedad, al demostrar que es posible generar nuevas opciones de mercado haciendo uso de las TIC (Tecnologías de la Información y las Comunicaciones) como herramientas de conexión y comercialización.
+            p El <em>marketing</em> digital ha generado un impacto importante en la sociedad, al demostrar que es posible generar nuevas opciones de mercado haciendo uso de las TIC (Tecnologías de la Información y las Comunicaciones) como herramientas de conexión y comercialización.
             .bg-color-3.p-4
-              p.mb-0 El mundo está conectado en todo momento y lugar a través de las redes sociales. Queriendo o no, éstas se han convertido en un canal imprescindible para desarrollar relaciones interpersonales, promocionar productos y servicios, o impartir educación. En fin, un amplio abanico de posibilidades que se desencadenaron a partir de la industria 4.0. Es aquí donde se observan nuevas oportunidades de desarrollo. Entendiendo que el uso de una red social va más allá de ver memes o estar enterado de la vida de los demás, el <em>marketing digital</em> demuestra que se puede generar desarrollo a través de medios alternativos con amplio alcance a nivel mundial. Pero, ¿qué es el <em>marketing digital</em>? ¿Dónde surge el <em>marketing digital</em>? Para contestar estas y otras preguntas, se sugiere mantener la atención en este componente de formación.
+              p.mb-0 El mundo está conectado en todo momento y lugar a través de las redes sociales. Queriendo o no, éstas se han convertido en un canal imprescindible para desarrollar relaciones interpersonales, promocionar productos y servicios, o impartir educación. En fin, un amplio abanico de posibilidades que se desencadenaron a partir de la industria 4.0. Es aquí donde se observan nuevas oportunidades de desarrollo. Entendiendo que el uso de una red social va más allá de ver memes o estar enterado de la vida de los demás, el <em>marketing</em> digital demuestra que se puede generar desarrollo a través de medios alternativos con amplio alcance a nivel mundial. Pero, ¿qué es el <em>marketing</em> digital? ¿Dónde surge el <em>marketing</em> digital? Para contestar estas y otras preguntas, se sugiere mantener la atención en este componente de formación.
         
         div.bg-color-2.tarjeta.p-3.d-inline-block.mb-5
           h3.mb-0 ¿Cuál es el objeto de aprendizaje?
@@ -38,7 +38,7 @@
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-8(data-aos="fade-up")
-            p.banner-text Como se mencionó anteriormente, el <em>marketing digital</em> es el objeto de aprendizaje que, a través de unas acciones de formación, se espera que desarrolle:
+            p.banner-text Como se mencionó anteriormente, el <em>marketing</em> digital es el objeto de aprendizaje que, a través de unas acciones de formación, se espera que desarrolle:
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7.col-xl-4.mb-3.mb-lg-0
@@ -74,19 +74,19 @@
           ul.lista-ul--color.ms-3
             li.mb-3.d-flex
               i.fas.fa-angle-right.bg-color-4
-              | Entrono digital
+              | Entrono digital.
             li.mb-3.d-flex
               i.fas.fa-angle-right.bg-color-4
-              | Fundamentos del <em>marketing digital</em>
+              span Fundamentos del #[em marketing] digital.
             li.mb-3.d-flex
               i.fas.fa-angle-right.bg-color-4
-              | Comercio electrónico
+              | Comercio electrónico.
             li.mb-3.d-flex
               i.fas.fa-angle-right.bg-color-4
-              | Estrategia digital
+              | Estrategia digital.
             li.mb-3.d-flex
               i.fas.fa-angle-right.bg-color-4
-              | <em>Social media</em>
+              | <em>Social media</em>.
 
     div.bg-color-2.tarjeta.p-3.d-inline-block.mb-5
       h3.mb-0 ¿Cómo está estructurado el componente de formación?
@@ -96,7 +96,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/intro/8.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El curso virtual está estructurado a partir de componentes de formación que contienen la información necesaria para que se puedan desarrollar conocimientos, habilidades y actitudes en el marco de la competencia estructuración de la estrategia de <em>marketing digital</em> acorde con los objetivos de campaña.
+        p.mb-0 El curso virtual está estructurado a partir de componentes de formación que contienen la información necesaria para que se puedan desarrollar conocimientos, habilidades y actitudes en el marco de la competencia estructuración de la estrategia de <em>marketing</em> digital acorde con los objetivos de campaña.
 
     div.bg-color-5.tarjeta.p-4.mb-5
       .row.align-items-center
@@ -141,7 +141,7 @@
       .col-xl-5
         .bg-color-3.p-4.mb-3
           p.mb-0 Que de una forma intencionada constituyen una comunidad de aprendizaje y práctica. Es decir, no se está solo, se tiene un conjunto de personas de diferentes lugares que se unen a las reflexiones e inquietudes. Por eso, es preciso recordar la importancia de participar en los foros y utilizar otras herramientas del curso para comunicarse.
-        p Los cursos virtuales son entornos de aprendizaje donde convergen:
+        p Finalmente, recuerde estos aspectos para iniciar y culminar con éxito el curso.
         ul.lista-ul--color.ms-3
           li.mb-3.d-flex
             i.fas.fa-angle-right.bg-color-4
@@ -157,7 +157,7 @@
             | Entregar las evidencias esperadas durante este componente de formación.
 
     .cajon.color-acento-botones.bg-color-6.p-4.mb-4
-      p.mb-0 Si en el desarrollo del curso surge alguna duda o requiere orientación adicional, recuerde que cuenta con el acompañamiento del equipo formador. No dude en comunicarse a través de los canales establecidos en la plataforma; estaremos atentos para apoyarle en su proceso de aprendizaje.
+      p.mb-0 En caso de alguna inquietud, no dude en escribirnos.
 
 
     

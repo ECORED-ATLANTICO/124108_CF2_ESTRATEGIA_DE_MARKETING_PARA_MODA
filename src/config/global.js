@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Marketing digital',
+    Name: '<em>Marketing</em> digital',
     Description:
-      'Con la llegada de las nuevas tecnologías, el internet ha marcado un gran impacto en todos los aspectos de la vida cotidiana, lo que ha permitido adaptarnos a escenarios desconocidos en una nueva era donde priman los entornos digitales y, en el contexto empresarial, estos aparecen idóneos para el marketing digital, reuniendo una serie elementos y estrategias para lograr los objetivos.',
+      'Con la llegada de las nuevas tecnologías, el internet ha marcado un gran impacto en todos los aspectos de la vida cotidiana, lo que ha permitido adaptarnos a escenarios desconocidos en una nueva era donde priman los entornos digitales y, en el contexto empresarial, estos aparecen idóneos para el <em>marketing</em> digital, reuniendo una serie elementos y estrategias para lograr los objetivos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -54,22 +54,22 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Fundamentos de marketing digital',
+        titulo: 'Fundamentos de <em>marketing</em> digital',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Breve historia del marketing digital',
+            titulo: 'Breve historia del <em>marketing</em> digital',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Las 4C del marketing digital',
+            titulo: 'Las 4C del <em>marketing</em> digital',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
-            titulo: 'Herramientas del marketing digital',
+            titulo: 'Herramientas del <em>marketing</em> digital',
             hash: 't_2_3',
           },
         ],
@@ -93,7 +93,7 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'Plan de marketing digital',
+            titulo: 'Plan de <em>marketing</em> digital',
             hash: 't_4_2',
           },
         ],
@@ -224,7 +224,7 @@ export default {
     {
       termino: 'KPI (Key Performance Indicators)',
       significado:
-        'Indicadores clave de desempeño para el despliegue de una estrategia de marketing.',
+        'Indicadores clave de desempeño para el despliegue de una estrategia de <em>marketing</em>.',
     },
     {
       termino: 'Sitio web',
@@ -367,14 +367,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -382,9 +383,28 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor metodológico y pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Maria Camila Álvarez',
+          cargo: 'Contratista diseño Curricular',
+          centro:
+            'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
+        },
+        {
+          nombre: 'Liliana Ceballos',
+          cargo: 'Contratista diseño Curricular',
+          centro:
+            'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
+        },
+        {
+          nombre: 'Cristian Metaute Medina',
+          cargo: 'Diseñador instruccional',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
         },
       ],
     },
@@ -392,19 +412,54 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jesus Antonio Vecino Valero',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Carlos Andrés Diaz Pinto',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Zuleidy María Ruíz Torres',
+          cargo: 'Producción audiovisual',
+          centro: 'Centro de Comercio y Servicios Regional - Tolima',
+        },
+        {
+          nombre: 'Adriana Marcela Suarez',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Angela Maldonado Jaime',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Daniela Bedoya Muñoz',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Gilberto Junior Rodriguez Rodriguez',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Caceres',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
         },
       ],
     },
@@ -412,14 +467,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Luz Karime Amaya Cabra',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adié Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Karine Isabel Ospino Fritz',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },

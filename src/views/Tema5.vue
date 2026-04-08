@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Social media
+      h1 #[em Social media]
     
     .bg-full-width.bg-fondo-1
       .px-4.px-lg-5
@@ -13,17 +13,17 @@
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10(data-aos="fade-up")
-            p.banner-text El social media es un fenómeno de interacción social que se ha convertido en la puerta de entrada para dar y recibir información a través de los medios digitales. Teniendo en cuenta la evidencia de la comunicación bidireccional generada, se podría afirmar, desde la perspectiva de Dotras (2018), que “el social media consiste en construir relaciones”, lo cual se ajusta muy bien a la realidad.
+            p.banner-text El #[em social media] es un fenómeno de interacción social que se ha convertido en la puerta de entrada para dar y recibir información a través de los medios digitales. Teniendo en cuenta la evidencia de la comunicación bidireccional generada, se podría afirmar, desde la perspectiva de Dotras (2018), que “el #[em social media] consiste en construir relaciones”, lo cual se ajusta muy bien a la realidad.
         
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema5/2.png", data-aos="zoom-in")
           .col-lg-8
-            p Cada día se genera contenido informativo que circula con total normalidad a través de las distintas plataformas digitales, debido a la continua necesidad de los individuos por estar enterados de lo que sucede en el mundo o en pocos kilómetros a la redonda. Es así como el social media se compone de diversas plataformas que permiten el intercambio de información, siendo este un gran atractivo para las marcas, al ver el gran movimiento generado en el público consumidor, el cual da a conocer sus gustos, opiniones o puntos de vista con relación a determinado tema.
+            p Cada día se genera contenido informativo que circula con total normalidad a través de las distintas plataformas digitales, debido a la continua necesidad de los individuos por estar enterados de lo que sucede en el mundo o en pocos kilómetros a la redonda. Es así como el #[em social media] se compone de diversas plataformas que permiten el intercambio de información, siendo este un gran atractivo para las marcas, al ver el gran movimiento generado en el público consumidor, el cual da a conocer sus gustos, opiniones o puntos de vista con relación a determinado tema.
 
             .bg-color-2.tarjeta.p-4
-              p.mb-0 Dentro del social media, se evidencian distintos medios para generar interacción, enmarcados en la comunicación, la colaboración, la multimedia y el entretenimiento (Xie, 2019).
+              p.mb-0 Dentro del #[em social media], se evidencian distintos medios para generar interacción, enmarcados en la comunicación, la colaboración, la multimedia y el entretenimiento (Xie, 2019).
         
         div.bg-color-2.tarjeta.p-3.d-inline-block.mb-5
           h3.mb-0 Medios sociales
@@ -190,7 +190,7 @@
               span Tipos de redes sociales
             img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/11.svg", alt="TEXTOALT")
             img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/11-1.svg", alt="TEXTOALT")
-            figcaption <strong>Nota.</strong> Adaptada de Xie (2019). Adaptada de Xie (2019). marketing digital: Navegando en aguas digitales, sumérgete conmigo.
+            figcaption <strong>Nota.</strong> Adaptada de Xie (2019). #[em marketing] digital: Navegando en aguas digitales, sumérgete conmigo.
         
         .cajon.color-acento-contenido.bg-color-9.p-4
           p.mb-0 Entre las redes sociales más populares, se encuentran Facebook, Instagram, Twitter, Youtube, Tik Tok, Linkedin, Pinterest, entre otras.
@@ -205,7 +205,7 @@
         figure
           img(src="@/assets/curso/tema5/12.png", data-aos="zoom-in")
       .col-lg-8
-        p.mb-0(data-aos="fade-right") Para que una red social genere interés, debe partir de la generación de contenidos de valor para la audiencia que recibe la información. Dichos contenidos pueden variar dependiendo del tipo de publicaciones que permita cada red social en su feed, o vista de contenidos. Es de resaltar que todo contenido que se publique debe ir acompañado de su respectivo copy, o texto descriptivo, el cual complementa la información que se desea compartir. Existen diez (10) tipos de contenidos visuales que debes publicar en las redes sociales, como se puede ver a continuación:
+        p.mb-0(data-aos="fade-right") Para que una red social genere interés, debe partir de la generación de contenidos de valor para la audiencia que recibe la información. Dichos contenidos pueden variar dependiendo del tipo de publicaciones que permita cada red social en su <em>feed</em>, o vista de contenidos. Es de resaltar que todo contenido que se publique debe ir acompañado de su respectivo <em>copy</em>, o texto descriptivo, el cual complementa la información que se desea compartir. Existen diez (10) tipos de contenidos visuales que debes publicar en las redes sociales, como se puede ver a continuación:
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0
@@ -330,7 +330,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema5/25.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 De acuerdo con el portal web En TIC Confío (2015), en Colombia, el Ministerio de las TIC es el ente encargado de regular la actividad digital, y aunque no hay una normativa específica para social media, sí existen leyes que protegen la información y los datos personales, así como las tecnologías de la información y la comunicación en general. Es de resaltar que, en cuanto a las redes sociales, se puede acudir al Artículo 15 de la Constitución Nacional, que hace referencia al derecho a la intimidad personal y familiar y al buen nombre. Además, el Gobierno ha trabajado por la implementación de mecanismos jurídicos como la Ley 1273 de 2009, que modificó el Código Penal y donde se incluyen delitos digitales relacionados con la comprobación del acceso ilegal al perfil de otra persona o la violación de datos personales. Igualmente, la difamación por cualquier red social o la creación de sitios web fraudulentos, al sustentarse con las debidas pruebas, pueden ser castigados.
+        p.mb-0 De acuerdo con el portal web En TIC Confío (2015), en Colombia, el Ministerio de las TIC es el ente encargado de regular la actividad digital, y aunque no hay una normativa específica para <em>social media</em>, sí existen leyes que protegen la información y los datos personales, así como las tecnologías de la información y la comunicación en general. Es de resaltar que, en cuanto a las redes sociales, se puede acudir al Artículo 15 de la Constitución Nacional, que hace referencia al derecho a la intimidad personal y familiar y al buen nombre. Además, el Gobierno ha trabajado por la implementación de mecanismos jurídicos como la Ley 1273 de 2009, que modificó el Código Penal y donde se incluyen delitos digitales relacionados con la comprobación del acceso ilegal al perfil de otra persona o la violación de datos personales. Igualmente, la difamación por cualquier red social o la creación de sitios web fraudulentos, al sustentarse con las debidas pruebas, pueden ser castigados.
     
     separador
     
