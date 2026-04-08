@@ -73,7 +73,7 @@
           .row(titulo="1950 - 1972").p-lg-4.align-items-center
             .col-lg-8.mb-4.mb-lg-0.order-lg-2
               h5 1950 - 1972 El #[em marketing] florece
-              p En este periodo, se evidencia que los ingresos de la publicidad televisiva superan a los medios impresos o radiales, lo que permite un crecimiento de la inversión en el medio audiovisual y emerge el telemarketing.
+              p En este periodo, se evidencia que los ingresos de la publicidad televisiva superan a los medios impresos o radiales, lo que permite un crecimiento de la inversión en el medio audiovisual y emerge el <em>telemarketing</em>.
               p.mb-0 En 1970, se pronuncia por primera vez la palabra Internet; a su vez, se crea el primer programa para enviar un correo electrónico y se evidencia una caída en los medios impresos. Del mismo modo, se funda Microsoft y se crean los emoticones.
             .col-lg-4.order-lg-1
               figure

@@ -25,7 +25,7 @@
                     img(src='@/assets/curso/tema3/2.svg', alt='')
                 .col-10
                   h3 SEO
-              p Teniendo en cuenta lo anterior, según el portal web 40deFiebre (Socialmood, 2020), es posible definir SEO como el proceso de mejorar la visibilidad de un sitio web en una búsqueda orgánica, es decir, que no necesita pagarse. Es de destacar que el SEO radica su importancia en la ayuda a los motores de búsqueda para entender de qué se trata una página web y si es útil para la persona que busca información relacionada con esta. Esto permite que una empresa tenga presencia en la web y tenga mayor reconocimiento por el público que se espera.
+              p Teniendo en cuenta lo anterior, según el portal web 40deFiebre (<em>Socialmood</em>, 2020), es posible definir SEO como el proceso de mejorar la visibilidad de un sitio web en una búsqueda orgánica, es decir, que no necesita pagarse. Es de destacar que el SEO radica su importancia en la ayuda a los motores de búsqueda para entender de qué se trata una página web y si es útil para la persona que busca información relacionada con esta. Esto permite que una empresa tenga presencia en la web y tenga mayor reconocimiento por el público que se espera.
         
           .col-sm-6.col-lg-6.mb-4.mb-lg-0(data-aos="fade-down")
             .tarjeta--boton.bg-color-16.h-100.p-4
@@ -35,7 +35,7 @@
                     img(src='@/assets/curso/tema3/3.svg', alt='')
                 .col-10
                   h3 SEM
-              p Por otro lado, según el portal web Cyberclick (Cyberclick Academy, 2020), se denomina SEM a las campañas de anuncios pagados desarrolladas en los buscadores y se muestran en la parte superior derecha. Este es un gran <em>plus</em> para las campañas digitales, posicionándolas en primer lugar de búsqueda, siempre y cuando el anunciante tenga un presupuesto definido para esta estrategia, en la que se cobra por cada clic que realicen los usuarios.
+              p Por otro lado, según el portal web <em>Cyberclick</em> (<em>Cyberclick Academy</em>, 2020), se denomina SEM a las campañas de anuncios pagados desarrolladas en los buscadores y se muestran en la parte superior derecha. Este es un gran <em>plus</em> para las campañas digitales, posicionándolas en primer lugar de búsqueda, siempre y cuando el anunciante tenga un presupuesto definido para esta estrategia, en la que se cobra por cada clic que realicen los usuarios.
 
         .bloque-texto-g.color-secundario.bg-color-1.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(

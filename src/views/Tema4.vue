@@ -84,7 +84,7 @@
                     figure
                       img(src='@/assets/curso/tema4/8.svg', alt='')
           
-                h3.bg-color-9.p-3.mb-4.text-center Conocimientos de los objetivos de la empresa
+                h3.bg-color-9.p-3.mb-4.text-center Conocimiento de los objetivos de la empresa
                 p.text-center Definir y entender los objetivos más grandes a los que apunta la empresa, teniendo en cuenta los que se pueden desarrollar a corto y largo plazo.
               .tarjeta.bg-color-sintesis.p-4.box-shadow
                 .row.justify-content-center.mb-3

@@ -348,28 +348,6 @@ export default {
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
-          id: 15,
-          texto: '[Falta el texto de la pregunta en el documento original]',
-          imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
-          ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
-        },
-        {
           id: 16,
           texto:
             'La competencia no influye en el diseño de estrategias digitales empresariales.',

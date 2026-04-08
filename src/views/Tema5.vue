@@ -40,52 +40,52 @@
                     ul.lista-ul--color
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Blog y micro-blog
+                        span <em>Blog</em> y <em>micro-blog.</em>
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Crowd wisdom
+                        span <em>Crowd wisdom.</em>
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Plataforma de comentario
+                        span Plataforma de comentario.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Foros en línea
+                        span Foros en línea.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Redes sociales completas
+                        | Redes sociales completas.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Plataformas de servicios
+                        | Plataformas de servicios.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Plataformas de comunicación interna
+                        | Plataformas de comunicación interna.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Plataformas de curación de contenido
+                        | Plataformas de curación de contenido.
                   .col-lg-6
                     ul.lista-ul--color
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Mensajería instantánea
+                        | Mensajería instantánea.
                     ul.lista-ul--color.bg-color-2.p-3
                       li.mb-3.d-flex
                         i.fas.fa-circle-check.bg-color-18
-                        | RRSS por ubicación o geolocalización
+                        | RRSS por ubicación o geolocalización.
                       li.mb-3.d-flex
                         i.fas.fa-circle-check.bg-color-18
-                        | RRSS por nicho
+                        | RRSS por nicho.
                       li.mb-3.d-flex
                         i.fas.fa-circle-check.bg-color-18
-                        | RRSS por negocio
+                        | RRSS por negocio.
                       li.mb-3.d-flex
                         i.fas.fa-circle-check.bg-color-18
-                        | RRSS de video
+                        | RRSS de video.
                       li.mb-3.d-flex
                         i.fas.fa-circle-check.bg-color-18
-                        | RRSS de fotos
+                        | RRSS de fotos.
                       li.mb-3.d-flex
                         i.fas.fa-circle-check.bg-color-18
-                        | RRSS para compartir arte
+                        | RRSS para compartir arte.
               div(titulo="Colaboración")
                 .row.justify-content-center.align-items-center.ms-lg-5
                   .col-lg-3.order-2
@@ -94,28 +94,28 @@
                     ul.lista-ul--color
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Preguntas y respuestas (Q&A)
+                        | Preguntas y respuestas (Q&A).
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Wiki
+                        | Wiki.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Marcadores sociales
+                        | Marcadores sociales.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Agregadores y publicadores de contenido en Internet
+                        | Agregadores y publicadores de contenido en Internet.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Sitios de opinión y rating
+                        | Sitios de opinión y <em>rating</em>.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Comercio y mercado social
+                        | Comercio y mercado social.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Crowdfunding
+                        span <em>Crowdfunding</em>.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Plataformas de movimiento social
+                        | Plataformas de movimiento social.
               div(titulo="Multimedia")
                 .row.justify-content-center.align-items-center.ms-lg-5
                   .col-lg-3.order-2
@@ -124,16 +124,16 @@
                     ul.lista-ul--color
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Compartir fotos
+                        | Compartir fotos.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Compartir contenido
+                        | Compartir contenido.  
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Plataformas de emisiones en vivo o directo
+                        | Plataformas de emisiones en vivo o directo.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Compartir música
+                        | Compartir música.
               div(titulo="Entretenimiento")
                 .row.justify-content-center.align-items-center.ms-lg-5
                   .col-lg-3.order-2
@@ -142,13 +142,13 @@
                     ul.lista-ul--color
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Plataformas de eventos
+                        | Plataformas de eventos.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Mundos virtualeso
+                        | Mundos virtuales.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Juegos en línea
+                        | Juegos en línea.
 
     separador
     
@@ -246,7 +246,7 @@
                 figure
                   img(src='@/assets/curso/tema5/17.svg', alt='')
       
-            h3.bg-color-9.p-3.mb-4.text-center GIFs
+            h3.bg-color-9.p-3.mb-4.text-center <em>GIFs</em>
             p.text-center Formato de video de mínima duración para complementar un mensaje.
 
           .tarjeta.bg-color-sintesis.p-4.box-shadow
@@ -264,7 +264,7 @@
                 figure
                   img(src='@/assets/curso/tema5/19.svg', alt='')
       
-            h3.bg-color-9.p-3.mb-4.text-center Webinars
+            h3.bg-color-9.p-3.mb-4.text-center <em>Webinars</em>
             p.text-center Espacios de transmisión en vivo, diseñados para compartir información e impartir educación respecto a un tema.
 
           .tarjeta.bg-color-sintesis.p-4.box-shadow
@@ -282,7 +282,7 @@
                 figure
                   img(src='@/assets/curso/tema5/21.svg', alt='')
       
-            h3.bg-color-9.p-3.mb-4.text-center Infográfias
+            h3.bg-color-9.p-3.mb-4.text-center Infografías
             p.text-center Estructuras informativas que hacen uso de imágenes y texto breve para dar a conocer un tema determinado.
 
           .tarjeta.bg-color-sintesis.p-4.box-shadow
@@ -300,7 +300,7 @@
                 figure
                   img(src='@/assets/curso/tema5/23.svg', alt='')
       
-            h3.bg-color-9.p-3.mb-4.text-center E-books
+            h3.bg-color-9.p-3.mb-4.text-center <em>E-books</em>
             p.text-center Libros digitales que pueden ser de acceso abierto o pago.
 
     .cajon.color-secundario.bg-color-3.p-4
@@ -341,7 +341,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text La eclosión de la revolución en el ámbito de las tecnologías de la información y las comunicaciones ha generado, a su vez, una revolución digital con innumerables ventajas. Sin embargo, el acceso masivo a la información y a contenidos digitales plantea serios problemas con respecto a los derechos de la propiedad intelectual, debido al acceso incontrolado y, en cierto sentido, ilimitado, creando incluso una sensación de no prohibición en la red. 
+        p.banner-text La eclosión de la revolución en el ámbito de las tecnologías de la información y las comunicaciones ha generado, a su vez, una revolución digital con innumerables ventajas. Sin embargo, el acceso masivo a la información y a contenidos digitales plantea serios problemas con respecto a los derechos de la propiedad intelectual, debido al acceso incontrolado y, en cierto sentido, ilimitado, creando incluso una sensación de no prohibición en la red. En este escenario, se hacen necesarias acciones jurídicas para proteger el derecho intelectual y, por esto, es importante revisar algunos conceptos.
     
     .bg-full-width.bg-fondo-1
       .px-4.px-lg-5
@@ -350,7 +350,6 @@
             figure
               img(src="@/assets/curso/tema5/27.png", data-aos="zoom-in")
           .col-lg-8
-            p En este escenario, se hacen necesarias acciones jurídicas para proteger el derecho intelectual y, por esto, es importante revisar algunos conceptos.
             .cajon.color-acento-contenido.bg-color-9.p-4
               p.mb-0 El concepto de propiedad intelectual (PI) “se refiere a las creaciones del intelecto: desde las obras de arte hasta las invenciones, los programas informáticos, las marcas y otros signos comerciales” (OMPI, 2020). De esta manera, se podría decir que la propiedad intelectual significa talento propio. Y allí entra en juego el derecho de autor, que serían las facultades morales y de explotación que deberían ser reconocidas a una persona por su obra original. Los contenidos como fotos, gráficos, videos, diseños son objeto de derechos de propiedad intelectual y se extienden a los entornos digitales donde se puede expresar el intelecto humano con sus creaciones.
         
@@ -380,7 +379,7 @@
               .tarjeta.color-acento-botones--borde.p-4(titulo="Decisión Andina 351 de 1993")
                 h4 Decisión Andina 351 de 1993
                 p Cuya finalidad es reconocer una adecuada y efectiva protección a los autores y demás titulares de derechos, sobre las obras del ingenio, en el campo literario, artístico o científico, cualquiera que sea el género o forma de expresión y sin importar el mérito literario o artístico ni su destino. Para más información, explore el siguiente enlace:
-                a.anexo.bg-color-19(href="https://www.wipo.int/edocs/lexdocs/laws/es/can/can010es.pdf" target="_blank")
+                a.anexo.bg-color-19(href="https://www.wipo.int/wipolex/es/legislation/details/9445" target="_blank")
                   h5.mb-0.text-center Click aquí
               .tarjeta.color-acento-botones--borde.p-4(titulo="Ley 241 del 2011")
                 h4 Ley 241 del 2011
@@ -395,7 +394,7 @@
               .tarjeta.color-acento-botones--borde.p-4(titulo="Ley 1915 del 2018")
                 h4 Ley 1915 del 2018
                 p Por la cual se modifica la ley 23 del 1982 y se establecen otras disposiciones en materia de derecho de autor y derechos conexos. Para más información, explore el siguiente enlace: 
-                a.anexo.bg-color-19(href="http://es.presidencia.gov.co/normativa/normativa/LEY%201915%20DEL%2012%20DE%20JULIO%20DE%202018.pdf" target="_blank")
+                a.anexo.bg-color-19(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=87419" target="_blank")
                   h5.mb-0.text-center Click aquí
 
 

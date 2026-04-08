@@ -15,7 +15,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/intro/1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Apreciado participante, bienvenido a este momento de aprendizaje orientado a las herramientas del entorno digital según el público objetivo y las condiciones de la empresa. Antes de empezar se sugiere revisar la siguiente infografía para identificar el contexto de aprendizaje.
+            p.mb-0 Apreciado aprendiz, bienvenido a este momento de aprendizaje orientado a las herramientas del entorno digital según el público objetivo y las condiciones de la empresa. Antes de empezar se sugiere revisar la siguiente infografía para identificar el contexto de aprendizaje.
         
         div.bg-color-2.tarjeta.p-3.d-inline-block.mb-5
           h3.mb-0 ¿Cómo surge este curso?
@@ -86,7 +86,7 @@
               | Estrategia digital.
             li.mb-3.d-flex
               i.fas.fa-angle-right.bg-color-4
-              | <em>Social media</em>.
+              span <em>Social media</em>.
 
     div.bg-color-2.tarjeta.p-3.d-inline-block.mb-5
       h3.mb-0 ¿Cómo está estructurado el componente de formación?
@@ -96,7 +96,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/intro/8.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El curso virtual está estructurado a partir de componentes de formación que contienen la información necesaria para que se puedan desarrollar conocimientos, habilidades y actitudes en el marco de la competencia estructuración de la estrategia de <em>marketing</em> digital acorde con los objetivos de campaña.
+        p.mb-0 El curso virtual está estructurado a partir de componentes de formación que contienen la información necesaria para que se puedan desarrollar conocimientos, habilidades y actitudes en el marco de la competencia estructuración de la estrategia de <em>marketing</em> digital acorde con los objetivos del componente.
 
     div.bg-color-5.tarjeta.p-4.mb-5
       .row.align-items-center

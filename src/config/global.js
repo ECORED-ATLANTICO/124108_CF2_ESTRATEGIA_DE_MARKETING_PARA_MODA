@@ -196,15 +196,15 @@ export default {
       significado: 'Determinar hasta qué punto se puede llegar.',
     },
     {
-      termino: 'Banners',
+      termino: '<em>Banners</em>',
       significado: 'Formato publicitario en Internet.',
     },
     {
-      termino: 'Business',
+      termino: '<em>Business</em>',
       significado: 'Traducción al inglés de ‘negocio’.',
     },
     {
-      termino: 'Consumer',
+      termino: '<em>Consumer</em>',
       significado: 'Traducción al inglés de ‘consumidor’.',
     },
     {
@@ -217,12 +217,12 @@ export default {
       significado: 'Que se impone sin autorización.',
     },
     {
-      termino: 'Jingle',
+      termino: '<em>Jingle</em>',
       significado:
         'Canción publicitaria para promocionar un producto o servicio.',
     },
     {
-      termino: 'KPI (Key Performance Indicators)',
+      termino: 'KPI (<em>Key Performance Indicators</em>)',
       significado:
         'Indicadores clave de desempeño para el despliegue de una estrategia de <em>marketing</em>.',
     },
@@ -254,7 +254,7 @@ export default {
     {
       referencia:
         'Decisión Andina 351 de 1993. {Comisión del Acuerdo de Cartagena}. <em>Régimen común sobre derecho de autor y derechos conexos.</em> Diciembre 17 de 1993.',
-      link: 'https://www.wipo.int/edocs/lexdocs/laws/es/can/can010es.pdf',
+      link: 'https://www.wipo.int/wipolex/es/legislation/details/9445',
     },
     {
       referencia:
