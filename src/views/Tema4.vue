@@ -28,7 +28,7 @@
               span Estructura de la estrategia digital
             img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/3.svg", alt="TEXTOALT")
             img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/3-1.svg", alt="TEXTOALT")
-            figcaption <strong>Nota:</strong> adaptada de Giu, W. (2018). Qué es una estrategia digital.
+            figcaption Nota. Adaptada de Giu, W. (2018). Qué es una estrategia digital.
         
         separador
         

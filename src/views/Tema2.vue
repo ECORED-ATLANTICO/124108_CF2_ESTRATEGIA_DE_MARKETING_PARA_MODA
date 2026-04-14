@@ -201,7 +201,7 @@
       .p-3.p-md-4(titulo="Posicionamiento en motores de búsqueda")
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-4.mb-md-0
-            p Al hablar de posicionamiento en motores de búsqueda, se hace referencia al SEO (Search Engine Optimization). Este permite que la marca o empresa aparezca en el motor de búsqueda al momento en que un usuario utilice palabras relacionadas con esta, lo cual genera un mayor flujo de tráfico al sitio web. Aquí es muy importante la definición de palabras clave que se relacionen con la página web en cuestión.
+            p Al hablar de posicionamiento en motores de búsqueda, se hace referencia al SEO (<em>Search Engine Optimization</em>). Este permite que la marca o empresa aparezca en el motor de búsqueda al momento en que un usuario utilice palabras relacionadas con esta, lo cual genera un mayor flujo de tráfico al sitio web. Aquí es muy importante la definición de palabras clave que se relacionen con la página web en cuestión.
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/19.png', alt='Imagen de acompañamiento')

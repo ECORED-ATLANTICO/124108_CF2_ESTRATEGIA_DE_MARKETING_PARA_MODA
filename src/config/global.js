@@ -238,6 +238,12 @@ export default {
   referencias: [
     {
       referencia:
+        'Adventures Digital Agency. (Septiembre 5 de 2018). <em>Ante todo, definamos términos: ¿Qué es el entorno digital?</em> ResearchGate',
+      link:
+        'https://www.researchgate.net/publication/379381708_Ante_todo_definamos_terminos_Que_es_el_entorno_digital',
+    },
+    {
+      referencia:
         'Boada, N. (Julio 26 de 2009). <em>Los 8 pasos de un plan de marketing en redes sociales.</em> Cyberclick.',
       link:
         'https://www.cyberclick.es/numerical-blog/los-8-pasos-de-un-plan-de-marketing-en-redes-sociales',
@@ -268,7 +274,7 @@ export default {
     {
       referencia:
         'Dotras, A. (2018). <em>Social Media. Herramientas y estrategias empresariales.</em> Ediciones de la U.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=8001',
+      link: '',
     },
     {
       referencia:
@@ -311,9 +317,14 @@ export default {
     },
     {
       referencia:
+        'MES academy. (2017, October 10). <em>Tono de comunicación en entornos digitales</em> - Lección 10 [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=MIHtogevWZM&feature=youtu.be',
+    },
+    {
+      referencia:
         'MinTIC. (Septiembre 12 de 2015). <em>Redes sociales: Leyes para tener en cuenta.</em> En TIC confío.',
       link:
-        'https://www.enticconfio.gov.co/redes-sociales-leyes-para-tener-en-cuenta',
+        'https://www.mintic.gov.co/portal/inicio/Atencion-y-Servicio-a-la-Ciudadania/Preguntas-frecuentes/15261:En-TIC-Confio',
     },
     {
       referencia:
@@ -337,7 +348,8 @@ export default {
     },
     {
       referencia: 'SENA, (1989). <em>Hablemos de marketing.</em> 11-13.',
-      link: 'https://hdl.handle.net/11404/876',
+      link:
+        'https://repositorio.sena.edu.co/bitstream/handle/11404/876/marketing.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
@@ -358,8 +370,7 @@ export default {
     {
       referencia:
         'Xie, Y. M. S. (2019). <em>Marketing digital: Navegando en aguas digitales, sumérgete conmigo.</em> Ediciones de la U.',
-      link:
-        'https://login.bdigital.sena.edu.co/login?url=http://www.ebooks7-24.com/?il=9100',
+      link: '',
     },
   ],
   creditos: [

@@ -74,7 +74,7 @@
           ul.lista-ul--color.ms-3
             li.mb-3.d-flex
               i.fas.fa-angle-right.bg-color-4
-              | Entrono digital.
+              | Entorno digital.
             li.mb-3.d-flex
               i.fas.fa-angle-right.bg-color-4
               span Fundamentos del #[em marketing] digital.
