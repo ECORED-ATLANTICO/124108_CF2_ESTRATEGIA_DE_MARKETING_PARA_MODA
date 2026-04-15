@@ -45,8 +45,8 @@
     
     figure
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/U2juCftBrTo" title="Tipos de estrategias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption <strong>Nota.</strong> Adaptado de Xie (2019). Marketing digital: navegando en aguas digitales, sumérgete conmigo.
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ET6OSOWke5o" title="Tipos de estrategias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Nota. Adaptado de Xie (2019). Marketing digital: navegando en aguas digitales, sumérgete conmigo.
 
     separador
     
