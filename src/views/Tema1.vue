@@ -78,9 +78,9 @@
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 1.
               span Los medios convergentes
-            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/6.svg", alt="TEXTOALT")
-            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/6-1.svg", alt="TEXTOALT")
-            figcaption <strong>Nota.</strong> Adaptada de Adventures Digital Agency (2018). Ante todo, definamos términos: ¿Qué es el entorno digital?
+            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/6.svg", alt="Muestra los medios convergentes.")
+            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/6-1.svg", alt="Muestra los medios convergentes.")
+            figcaption Nota. Adaptada de Adventures Digital Agency (2018). Ante todo, definamos términos: ¿Qué es el entorno digital?
         
         separador
         

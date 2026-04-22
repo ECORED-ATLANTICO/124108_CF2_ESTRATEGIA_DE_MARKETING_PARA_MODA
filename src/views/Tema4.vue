@@ -26,9 +26,9 @@
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 2.
               span Estructura de la estrategia digital
-            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/3.svg", alt="TEXTOALT")
-            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/3-1.svg", alt="TEXTOALT")
-            figcaption Nota. Adaptada de Giu, W. (2018). Qué es una estrategia digital.
+            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/3.svg", alt="-Investigación: Público. Contenido y diseño. Redes sociales. Comunicación. Competencia. - Objetivos: Objetivos cuantitativos. Objetivos cualitativos. Definición de KPI. - Estrategias: Segmentación. Posicionamiento. Definición de estrategias. Ejecución de tácticas. - Análisis: Monitorización. Medición de KPI. Análisis de los resultados. Elaboración de informes.")
+            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/3-mob.svg", alt="-Investigación: Público. Contenido y diseño. Redes sociales. Comunicación. Competencia. - Objetivos: Objetivos cuantitativos. Objetivos cualitativos. Definición de KPI. - Estrategias: Segmentación. Posicionamiento. Definición de estrategias. Ejecución de tácticas. - Análisis: Monitorización. Medición de KPI. Análisis de los resultados. Elaboración de informes.")
+            figcaption Nota. Adaptada de Giu, W. (2018). Qué es una Estrategia digital.
         
         separador
         

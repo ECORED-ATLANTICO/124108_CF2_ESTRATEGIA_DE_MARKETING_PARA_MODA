@@ -188,9 +188,9 @@
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 3.
               span Tipos de redes sociales
-            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/11.svg", alt="TEXTOALT")
-            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/11-1.svg", alt="TEXTOALT")
-            figcaption <strong>Nota.</strong> Adaptada de Xie (2019). #[em marketing] digital: Navegando en aguas digitales, sumérgete conmigo.
+            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/11.svg", alt="Describe los tipos de redes sociales.")
+            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/11-1.svg", alt="Describe los tipos de redes sociales.")
+            figcaption Nota. Adaptada de Xie (2019). #[em Marketing] digital: Navegando en aguas digitales, sumérgete conmigo.
         
         .cajon.color-acento-contenido.bg-color-9.p-4
           p.mb-0 Entre las redes sociales más populares, se encuentran Facebook, Instagram, Twitter, Youtube, Tik Tok, Linkedin, Pinterest, entre otras.
