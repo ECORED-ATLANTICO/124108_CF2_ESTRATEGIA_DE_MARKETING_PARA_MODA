@@ -40,13 +40,13 @@
                     ul.lista-ul--color
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        span <em>Blog</em> y <em>micro-blog.</em>
+                        span <em>Blog</em> y <em>microblog.</em>
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
                         span <em>Crowd wisdom.</em>
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        span Plataforma de comentario.
+                        span Plataformas de comentarios.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
                         span Foros en línea.
@@ -94,7 +94,7 @@
                     ul.lista-ul--color
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Preguntas y respuestas (Q&A).
+                        | Preguntas y respuestas (Q&A) (<em>Questions and Answers</em>).
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
                         | Wiki.
@@ -103,10 +103,10 @@
                         | Marcadores sociales.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Agregadores y publicadores de contenido en Internet.
+                        | Agregadores y publicadores de contenido en internet.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Sitios de opinión y <em>rating</em>.
+                        p.mb-0 Sitios de opinión y <em>rating</em>.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
                         | Comercio y mercado social.
@@ -130,7 +130,7 @@
                         | Compartir contenido.  
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                        | Plataformas de emisiones en vivo o directo.
+                        | Plataformas de emisiones en vivo o en directo.
                       li.mb-3.d-flex
                         i.fas.fa-circle.fa-xs.mt-2.bg-color-18
                         | Compartir música.
@@ -188,8 +188,8 @@
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 3.
               span Tipos de redes sociales
-            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/11.svg", alt="Describe los tipos de redes sociales.")
-            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/11-1.svg", alt="Describe los tipos de redes sociales.")
+            img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/11.svg", alt="La figura describe la clasificación de las redes sociales en verticales y horizontales. Las redes sociales verticales se especializan en temas o intereses específicos, como ámbitos profesionales, educativos, de ocio y de contenidos. Entre sus temáticas se encuentran los videojuegos, los animales, la lectura, los viajes, la comida y el deporte, así como el intercambio de documentos, videos, imágenes, música y otros contenidos. Las redes sociales horizontales se presentan como una categoría general sin una temática específica.")
+            img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/11-1.svg", alt="La figura describe la clasificación de las redes sociales en verticales y horizontales. Las redes sociales verticales se especializan en temas o intereses específicos, como ámbitos profesionales, educativos, de ocio y de contenidos. Entre sus temáticas se encuentran los videojuegos, los animales, la lectura, los viajes, la comida y el deporte, así como el intercambio de documentos, videos, imágenes, música y otros contenidos. Las redes sociales horizontales se presentan como una categoría general sin una temática específica.")
             figcaption Nota. Adaptada de Xie (2019). #[em Marketing] digital: Navegando en aguas digitales, sumérgete conmigo.
         
         .cajon.color-acento-contenido.bg-color-9.p-4
@@ -205,7 +205,7 @@
         figure
           img(src="@/assets/curso/tema5/12.png", data-aos="zoom-in")
       .col-lg-8
-        p.mb-0(data-aos="fade-right") Para que una red social genere interés, debe partir de la generación de contenidos de valor para la audiencia que recibe la información. Dichos contenidos pueden variar dependiendo del tipo de publicaciones que permita cada red social en su <em>feed</em>, o vista de contenidos. Es de resaltar que todo contenido que se publique debe ir acompañado de su respectivo <em>copy</em>, o texto descriptivo, el cual complementa la información que se desea compartir. Existen diez (10) tipos de contenidos visuales que debes publicar en las redes sociales, como se puede ver a continuación:
+        p.mb-0(data-aos="fade-right") Para que una red social genere interés, debe partir de la generación de contenidos de valor para la audiencia que recibe la información. Dichos contenidos pueden variar dependiendo del tipo de publicaciones que permita cada red social en su <em>feed</em>, o vista de contenidos. Es de resaltar que todo contenido que se publique debe ir acompañado de su respectivo <em>copy</em>, o texto descriptivo, el cual complementa la información que se desea compartir. Existen diez (10) tipos de contenidos visuales que se deben publicar en las redes sociales, como se detalla a continuación:
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0
@@ -351,7 +351,7 @@
               img(src="@/assets/curso/tema5/27.png", data-aos="zoom-in")
           .col-lg-8
             .cajon.color-acento-contenido.bg-color-9.p-4
-              p.mb-0 El concepto de propiedad intelectual (PI) “se refiere a las creaciones del intelecto: desde las obras de arte hasta las invenciones, los programas informáticos, las marcas y otros signos comerciales” (OMPI, 2020). De esta manera, se podría decir que la propiedad intelectual significa talento propio. Y allí entra en juego el derecho de autor, que serían las facultades morales y de explotación que deberían ser reconocidas a una persona por su obra original. Los contenidos como fotos, gráficos, videos, diseños son objeto de derechos de propiedad intelectual y se extienden a los entornos digitales donde se puede expresar el intelecto humano con sus creaciones.
+              p.mb-0 El concepto de propiedad intelectual (PI) “se refiere a las creaciones del intelecto: desde las obras de arte hasta las invenciones, los programas informáticos, las marcas y otros signos comerciales” (OMPI, 2020). De esta manera, se podría decir que la propiedad intelectual significa talento propio. Y allí entra en juego el derecho de autor, que comprende las facultades morales y de explotación que deberían ser reconocidas a una persona por su obra original. Los contenidos como fotos, gráficos, videos y diseños, son objeto de derechos de propiedad intelectual y se extienden a los entornos digitales donde se puede expresar el intelecto humano con sus creaciones.
         
         separador
         
@@ -375,27 +375,27 @@
                 h4 Ley 23 de 1982
                 p Ley de derechos de autor. Para más información, explore el siguiente enlace: 
                 a.anexo.bg-color-19(href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=3431&dt=S" target="_blank")
-                  h5.mb-0.text-center Click aquí
+                  h5.mb-0.text-center Clic aquí
               .tarjeta.color-acento-botones--borde.p-4(titulo="Decisión Andina 351 de 1993")
                 h4 Decisión Andina 351 de 1993
                 p Cuya finalidad es reconocer una adecuada y efectiva protección a los autores y demás titulares de derechos, sobre las obras del ingenio, en el campo literario, artístico o científico, cualquiera que sea el género o forma de expresión y sin importar el mérito literario o artístico ni su destino. Para más información, explore el siguiente enlace:
                 a.anexo.bg-color-19(href="https://www.wipo.int/wipolex/es/legislation/details/9445" target="_blank")
-                  h5.mb-0.text-center Click aquí
-              .tarjeta.color-acento-botones--borde.p-4(titulo="Ley 241 del 2011")
-                h4 Ley 241 del 2011
-                p Por la cual se regula la responsabilidad por las infracciones de derecho de autor y derechos conexos en Internet. Para más información explore el siguiente enlace:
+                  h5.mb-0.text-center Clic aquí
+              .tarjeta.color-acento-botones--borde.p-4(titulo="Proyecto de Ley 241 de 2011")
+                h4 Proyecto de Ley 241 de 2011
+                p Por la cual se regula la responsabilidad por las infracciones de derecho de autor y derechos conexos en internet. Para más información explore el siguiente enlace:
                 a.anexo.bg-color-19(href="http://www.informatica-juridica.com/proyecto-de-ley/proyecto-ley-241-derecho-autor-los-derechos-conexos-internet/" target="_blank")
-                  h5.mb-0.text-center Click aquí
+                  h5.mb-0.text-center Clic aquí
               .tarjeta.color-acento-botones--borde.p-4(titulo="Ley 1834 del 2017")
                 h4 Ley 1834 del 2017
-                p Por la cual se fomenta la economía creativa (ley naranja). Para más información, explore el siguiente enlace:
+                p Por la cual se fomenta la economía creativa (Ley Naranja). Para más información, explore el siguiente enlace:
                 a.anexo.bg-color-19(href="http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30030647" target="_blank")
-                  h5.mb-0.text-center Click aquí
+                  h5.mb-0.text-center Clic aquí
               .tarjeta.color-acento-botones--borde.p-4(titulo="Ley 1915 del 2018")
                 h4 Ley 1915 del 2018
-                p Por la cual se modifica la ley 23 del 1982 y se establecen otras disposiciones en materia de derecho de autor y derechos conexos. Para más información, explore el siguiente enlace: 
+                p Por la cual se modifica la Ley 23 de 1982 y se establecen otras disposiciones en materia de derecho de autor y derechos conexos. Para más información, explore el siguiente enlace: 
                 a.anexo.bg-color-19(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=87419" target="_blank")
-                  h5.mb-0.text-center Click aquí
+                  h5.mb-0.text-center Clic aquí
 
 
 

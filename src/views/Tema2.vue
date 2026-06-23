@@ -27,7 +27,7 @@
                   img(src="@/assets/curso/tema2/3.png", data-aos="zoom-in")
               .col-lg-7
                 .bg-color-9.px-5.py-4
-                  p.mb-0 A lo largo de la historia, el mercadeo se desenvolvió en diferentes fases que marcaron una ruta para su desarrollo, iniciando con los primeros tiempos de la humanidad, en la etapa de la autosuficiencia económica, donde no existía el mercadeo como tal. Se da a continuación una etapa de trueque, donde se empieza a vislumbrar el paso a seguir para los mercados locales, en un primer acercamiento a la comercialización. Seguido de esto, aparece la moneda, que agiliza diversos procesos; lo que da paso a la etapa de la Revolución Industrial y, a su vez, a la producción en masa. 
+                  p.mb-0 A lo largo de la historia, el marketing se desenvolvió en diferentes fases que marcaron una ruta para su desarrollo, iniciando con los primeros tiempos de la humanidad, en la etapa de la autosuficiencia económica, donde no existía el marketing como tal. Se da a continuación una etapa de trueque, donde se empieza a vislumbrar el paso a seguir para los mercados locales, en un primer acercamiento a la comercialización. Seguido de esto, aparece la moneda, que agiliza diversos procesos; lo que da paso a la etapa de la Revolución Industrial y, a su vez, a la producción en masa. 
             div.bg-color-sintesis.p-4
               .row.align-items-center
                 .col-lg-auto.mb-3.mb-lg-0
@@ -51,7 +51,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text El #[em marketing] digital ha tenido una gran evolución a medida que han evolucionado los medios de comunicación a lo largo de los últimos 40 años. A continuación, se presenta un breve recorrido por su historia, desde la perspectiva de Xie (2019).
+        p.banner-text El <em>marketing</em> digital ha tenido un gran desarrollo a medida que han evolucionado los medios de comunicación a lo largo de los últimos 40 años.
     
     .bg-full-width.bg-fondo-2
       .p-4.p-lg-5
@@ -59,7 +59,7 @@
           .row(titulo="1440 - 1900 ").p-lg-4.align-items-center
             .col-lg-8.mb-4.mb-lg-0.order-lg-2
               h5 1440 - 1900 Aparece la publicidad impresa
-              p.mb-0 En 1440 se inventa la imprenta y con ella aparecen los medios impresos que en este lapsus de tiempo permitieron por primera vez la difusión masiva de textos, como la revista o el periódico. Esto permitió la creación de #[em posters] y afiches para la promoción de las empresas del momento.
+              p.mb-0 En 1440 se inventa la imprenta y con ella aparecen los medios impresos que en este periodo de tiempo permitieron por primera vez la difusión masiva de textos, como la revista o el periódico. Esto permitió la creación de posters y afiches para la promoción de las empresas del momento.
             .col-lg-4.order-lg-1
               figure
                 img(src='@/assets/curso/tema2/8.png', alt='')
@@ -74,7 +74,7 @@
             .col-lg-8.mb-4.mb-lg-0.order-lg-2
               h5 1950 - 1972 El #[em marketing] florece
               p En este periodo, se evidencia que los ingresos de la publicidad televisiva superan a los medios impresos o radiales, lo que permite un crecimiento de la inversión en el medio audiovisual y emerge el <em>telemarketing</em>.
-              p.mb-0 En 1970, se pronuncia por primera vez la palabra Internet; a su vez, se crea el primer programa para enviar un correo electrónico y se evidencia una caída en los medios impresos. Del mismo modo, se funda Microsoft y se crean los emoticones.
+              p.mb-0 En 1970, se pronuncia por primera vez la palabra internet; a su vez, se crea el primer programa para enviar un correo electrónico y se evidencia una caída en los medios impresos. Del mismo modo, se funda Microsoft y se crean los emoticones.
             .col-lg-4.order-lg-1
               figure
                 img(src='@/assets/curso/tema2/9.png', alt='')
@@ -88,14 +88,14 @@
                 img(src='@/assets/curso/tema2/10.png', alt='')
           .row(titulo="1995 - 2002").p-lg-4.align-items-center
             .col-lg-8.mb-4.mb-lg-0.order-lg-2
-              h5 1995 - 2002 La burbuja .com
+              h5 1995 - 2002 La burbuja.com
               p.mb-0 El GPS (Sistema de Posicionamiento Global) puede ser usado en modo civil; se crean las primeras <em>e-commerce</em>, como Amazon y Netscape; surge por primera vez el concepto de SEO (<em>Search Engine Optimization</em>) y se crea el primer <em>blog</em>. Además, en este tiempo aparece la primera red social, llamada SixDegrees. En 1998, nace Google; igualmente, el popular MSN Messenger y también se crea Google Analytics.
             .col-lg-4.order-lg-1
               figure
                 img(src='@/assets/curso/tema2/11.png', alt='')
           .row(titulo="2003 - Actualidad").p-lg-4.align-items-center
             .col-lg-8.mb-4.mb-lg-0.order-lg-2
-              h5 2003 - Actualidad. La era del #[em marketing] digital
+              h5 2003 - Actualidad: la era del #[em marketing] digital
               p.mb-0 En el año 2003, llegan a reinar las redes sociales en todo su esplendor. Algunas mantienen su fuerza y otras van decayendo. Igualmente, se actualizan los algoritmos y se entiende que esta es la era para mantener al mundo hiperconectado, consumiendo contenidos y al mismo tiempo creándolos.
             .col-lg-4.order-lg-1
               figure
@@ -113,7 +113,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/13.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 También conocidas como el #[em marketing mix], donde se distinguen cuatro importantes aspectos a tener en cuenta para entender y desplegar una estrategia: consumidor, costo, conveniencia y comunicación. Este modelo fue propuesto por Robert F. Lauterborn, en 1990, quien vio la necesidad de actualizar al entorno digital el modelo del mercadeo tradicional de 4P (producto, precio, plaza y promoción), sin perder su esencia (Xie, 2019). En el siguiente gráfico, se aprecian las definiciones.
+            p.mb-0 También conocidas como el #[em marketing mix], donde se distinguen cuatro importantes aspectos a tener en cuenta para entender y desplegar una estrategia: consumidor, costo, conveniencia y comunicación. Este modelo fue propuesto por Robert F. Lauterborn, en 1990, quien vio la necesidad de actualizar al entorno digital el modelo del marketing tradicional de 4P (producto, precio, plaza y promoción), sin perder su esencia (Xie, 2019). En el siguiente gráfico, se aprecian las definiciones.
 
         .row.justify-content-center.align-items-center.mb-5
           .col-md-10.col-lg-6
@@ -129,7 +129,7 @@
                       img.d-none.d-md-block(src='@/assets/curso/tema2/21.svg', alt='')
                   .col-md
                     .h5.mb-2 Consumidor
-                    p.mb-0 Todas las estrategias para promocionar y vender un producto se basan en los gustos, deseos y necesidades de los consumidores; por ello, el #[em marketing] digital está tan enfocado en conocer y analizar su público través de diversas técnicas para lograr efectividad en sus procesos.
+                    p.mb-0 Todas las estrategias para promocionar y vender un producto se basan en los gustos, deseos y necesidades de los consumidores; por ello, el #[em marketing] digital está tan enfocado en conocer y analizar su público a través de diversas técnicas para lograr efectividad en sus procesos.
                 img.position-absolute.pst-1(src='@/assets/curso/tema2/25.svg', style="max-width: 72px" alt='')
 
               .tarjeta.bg-color-11.p-3(x="86%" y="25%" numero="")
@@ -186,7 +186,7 @@
       .p-3.p-md-4(titulo="<em>E-mail marketing</em>")
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-4.mb-md-0
-            p Se define como una estrategia de comunicaciones que entrega una información puntual de contenido promocional de productos o servicios por medio del correo electrónico. Esto permite fidelizar el público objetivo y permite la captación de nuevos usuarios con la ayuda de bases de datos especializadas.
+            p Se define como una estrategia de comunicaciones que entrega una información puntual de contenido promocional de productos o servicios por medio del correo electrónico. Esto favorece la fidelización del público objetivo y la captación de nuevos usuarios con la ayuda de bases de datos especializadas.
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/17.png', alt='Imagen de acompañamiento')

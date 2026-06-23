@@ -2,7 +2,7 @@ export default {
   global: {
     Name: '<em>Marketing</em> digital',
     Description:
-      'Con la llegada de las nuevas tecnologías, el internet ha marcado un gran impacto en todos los aspectos de la vida cotidiana, lo que ha permitido adaptarnos a escenarios desconocidos en una nueva era donde priman los entornos digitales y, en el contexto empresarial, estos aparecen idóneos para el <em>marketing</em> digital, reuniendo una serie elementos y estrategias para lograr los objetivos.',
+      'Con la llegada de las nuevas tecnologías, el internet ha tenido un gran impacto en todos los aspectos de la vida cotidiana, lo que ha permitido adaptarnos a escenarios desconocidos en una nueva era donde priman los entornos digitales y, en el contexto empresarial, estos aparecen idóneos para el <em>marketing</em> digital, reuniendo una serie de elementos y estrategias para lograr los objetivos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -54,7 +54,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Fundamentos de <em>marketing</em> digital',
+        titulo: 'Fundamentos del <em>marketing</em> digital',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -168,7 +168,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA2_124108_DU.pdf',
+        download: 'downloads/124108_CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -189,7 +189,7 @@ export default {
     },
     {
       termino: '<em>Banners</em>',
-      significado: 'Formato publicitario en Internet.',
+      significado: 'Formato publicitario en internet.',
     },
     {
       termino: '<em>Business</em>',
@@ -224,19 +224,19 @@ export default {
     },
     {
       termino: 'Tráfico de usuarios',
-      significado: 'Flujo de información de usuarios en una página web.',
+      significado: 'flujo o cantidad de usuarios que visitan una página web.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Adventures Digital Agency. (Septiembre 5 de 2018). <em>Ante todo, definamos términos: ¿Qué es el entorno digital?</em> ResearchGate',
+        'Adventures Digital Agency. (Septiembre de 2018). <em>Ante todo, definamos términos: ¿Qué es el entorno digital?</em> ResearchGate',
       link:
         'https://www.researchgate.net/publication/379381708_Ante_todo_definamos_terminos_Que_es_el_entorno_digital',
     },
     {
       referencia:
-        'Boada, N. (Julio 26 de 2009). <em>Los 8 pasos de un plan de marketing en redes sociales.</em> Cyberclick.',
+        'Boada, N. (Julio de 2009). <em>Los 8 pasos de un plan de marketing en redes sociales.</em> Cyberclick.',
       link:
         'https://www.cyberclick.es/numerical-blog/los-8-pasos-de-un-plan-de-marketing-en-redes-sociales',
     },
@@ -251,16 +251,16 @@ export default {
     },
     {
       referencia:
-        'Decisión Andina 351 de 1993. {Comisión del Acuerdo de Cartagena}. <em>Régimen común sobre derecho de autor y derechos conexos.</em> Diciembre 17 de 1993.',
+        'Decisión Andina 351 de 1993. {Comisión del Acuerdo de Cartagena}. <em>Régimen común sobre derecho de autor y derechos conexos.</em> Diciembre de 1993.',
       link: 'https://www.wipo.int/wipolex/es/legislation/details/9445',
     },
     {
       referencia:
-        'De Castro, I. (Septiembre 30 de 2019). <em>¿Qué son herramientas de marketing y por qué debo contar con ellas? Innovacode - Resolución de problemas.</em>',
+        'De Castro, I. (Septiembre de 2019). <em>¿Qué son herramientas de marketing y por qué debo contar con ellas? Innovacode - Resolución de problemas.</em>',
     },
     {
       referencia:
-        'De Paul, V. (Diciembre 18 de 2020). <em>20 ideas de redes sociales para mantener el feed de tu marca al día. Sprout Social.</em>',
+        'De Paul, V. (Diciembre de 2020). <em>20 ideas de redes sociales para mantener el feed de tu marca al día. Sprout Social.</em>',
       link: 'https://sproutsocial.com/insights/ideas-de-redes-sociales/',
     },
     {
@@ -270,12 +270,12 @@ export default {
     },
     {
       referencia:
-        'Giraldo, V. (Febrero 14 de 2019). <em>Plataformas digitales: ¿qué son y qué tipos existen?</em> Rock Content - ES.',
+        'Giraldo, V. (Febrero de 2019). <em>Plataformas digitales: ¿qué son y qué tipos existen?</em> Rock Content - ES.',
       link: 'https://rockcontent.com/es/blog/plataformas-digitales/',
     },
     {
       referencia:
-        'Giu, W. (Julio 18 de 2018). <em>Qué es una Estrategia Digital.</em> WalterGiu.',
+        'Giu, W. (Julio de 2018). <em>Qué es una Estrategia Digital.</em> WalterGiu.',
       link: 'https://waltergiu.com/blog/que-es-una-estrategia-digital',
     },
     {
@@ -291,7 +291,7 @@ export default {
     },
     {
       referencia:
-        'Ley 241 del 2011. <em>Por la cual se regula la responsabilidad por las infracciones al derecho de autor y los derechos conexos en Internet.</em> Abril de 2011.',
+        'Proyecto de Ley 241 del 2011. <em>Por la cual se regula la responsabilidad por las infracciones al derecho de autor y los derechos conexos en internet.</em> Abril de 2011.',
       link:
         'http://www.informatica-juridica.com/proyecto-de-ley/proyecto-ley-241-derecho-autor-los-derechos-conexos-internet/',
     },
@@ -303,24 +303,23 @@ export default {
     },
     {
       referencia:
-        'Ley 1915 del 2018. <em>Por la cual se modifica la ley 23 del 1982 y se establecen otras disposiciones en materia de derecho de autor y derechos conexos.</em> Julio 12 de 2018.',
-      link:
-        'http://es.presidencia.gov.co/normativa/normativa/LEY%201915%20DEL%2012%20DE%20JULIO%20DE%202018.pdf',
+        'Ley 1915 del 2018. <em>Por la cual se modifica la Ley 23 del 1982 y se establecen otras disposiciones en materia de derecho de autor y derechos conexos.</em> Julio de 2018.',
+      link: '',
     },
     {
       referencia:
-        'MES academy. (2017, October 10). <em>Tono de comunicación en entornos digitales</em> - Lección 10 [Video]. YouTube.',
+        'MES academy. (Octubre de 2017). <em>Tono de comunicación en entornos digitales</em> - Lección 10 [Video]. YouTube.',
       link: 'https://www.youtube.com/watch?v=MIHtogevWZM&feature=youtu.be',
     },
     {
       referencia:
-        'MinTIC. (Septiembre 12 de 2015). <em>Redes sociales: Leyes para tener en cuenta.</em> En TIC confío.',
+        'MinTIC. (Septiembre de 2015). <em>Redes sociales: Leyes para tener en cuenta.</em> En TIC confío.',
       link:
         'https://www.mintic.gov.co/portal/inicio/Atencion-y-Servicio-a-la-Ciudadania/Preguntas-frecuentes/15261:En-TIC-Confio',
     },
     {
       referencia:
-        'Newberry, C. (Julio 17 de 2020). <em>Análisis de redes sociales: Una guía para principiantes. Social Media Marketing & Management Dashboard.</em>',
+        'Newberry, C. (Julio de 2020). <em>Análisis de redes sociales: Una guía para principiantes. Social Media Marketing & Management Dashboard.</em>',
       link: 'https://blog.hootsuite.com/es/analisis-de-redes-sociales/',
     },
     {
@@ -330,8 +329,7 @@ export default {
     {
       referencia:
         'Pérez, A. y Acosta, H. (2003). <em>La convergencia mediática: un nuevo escenario para la gestión de información.</em> Revista Cubana de Información en Ciencias de la Salud, 11(1).',
-      link:
-        'http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1024-94352003000500003',
+      link: '',
     },
     {
       referencia:
@@ -340,8 +338,7 @@ export default {
     },
     {
       referencia: 'SENA, (1989). <em>Hablemos de marketing.</em> 11-13.',
-      link:
-        'https://repositorio.sena.edu.co/bitstream/handle/11404/876/marketing.pdf?sequence=1&isAllowed=y',
+      link: '',
     },
     {
       referencia:
@@ -350,8 +347,8 @@ export default {
     },
     {
       referencia:
-        'Socialmood. (Marzo 13 de 2020). <em>¿Qué es el SEO y por qué lo necesito?</em> 40deFiebre.',
-      link: 'https://www.40defiebre.com/guia-seo/que-es-seo-por-que-necesito',
+        'Socialmood. (Marzo de 2020). <em>¿Qué es el SEO y por qué lo necesito?</em> 40deFiebre.',
+      link: '',
     },
     {
       referencia:
@@ -372,7 +369,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional 06. Responsable del Ecosistema de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

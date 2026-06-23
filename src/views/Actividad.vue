@@ -22,7 +22,7 @@ export default {
       introduccion:
         '<b> Objetivo:</b> verificar la comprensión del aprendiz sobre los fundamentos del <em>marketing</em> digital mediante la resolución de preguntas de verdadero o falso, a partir de la identificación de conceptos clave desarrollados en el componente formativo.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
@@ -113,7 +113,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de <em>Marketing</em> digital.',
+            'Excelente, tiene una adecuada comprensión de la temática de Marketing digital.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },

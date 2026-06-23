@@ -29,7 +29,7 @@
           .col-lg-8
             p El <em>marketing</em> digital ha generado un impacto importante en la sociedad, al demostrar que es posible generar nuevas opciones de mercado haciendo uso de las TIC (Tecnologías de la Información y las Comunicaciones) como herramientas de conexión y comercialización.
             .bg-color-3.p-4
-              p.mb-0 El mundo está conectado en todo momento y lugar a través de las redes sociales. Queriendo o no, éstas se han convertido en un canal imprescindible para desarrollar relaciones interpersonales, promocionar productos y servicios, o impartir educación. En fin, un amplio abanico de posibilidades que se desencadenaron a partir de la industria 4.0. Es aquí donde se observan nuevas oportunidades de desarrollo. Entendiendo que el uso de una red social va más allá de ver memes o estar enterado de la vida de los demás, el <em>marketing</em> digital demuestra que se puede generar desarrollo a través de medios alternativos con amplio alcance a nivel mundial. Pero, ¿qué es el <em>marketing</em> digital? ¿Dónde surge el <em>marketing</em> digital? Para contestar estas y otras preguntas, se sugiere mantener la atención en este componente de formación.
+              p.mb-0 El mundo está conectado en todo momento y lugar a través de las redes sociales. Queriendo o no, estas se han convertido en un canal imprescindible para desarrollar relaciones interpersonales, promocionar productos y servicios, o impartir educación. En fin, un amplio abanico de posibilidades que se desencadenaron a partir de la Industria 4.0. Es aquí donde se observan nuevas oportunidades de desarrollo. Entendiendo que el uso de una red social va más allá de ver memes o estar enterado de la vida de los demás, el <em>marketing</em> digital demuestra que se puede generar desarrollo a través de medios alternativos con amplio alcance a nivel mundial. Pero, ¿qué es el <em>marketing</em> digital? ¿Dónde surge el <em>marketing</em> digital? Para contestar estas y otras preguntas, se sugiere mantener la atención en este componente de formación.
         
         div.bg-color-2.tarjeta.p-3.d-inline-block.mb-5
           h3.mb-0 ¿Cuál es el objeto de aprendizaje?
@@ -156,8 +156,10 @@
             i.fas.fa-angle-right.bg-color-4
             | Entregar las evidencias esperadas durante este componente de formación.
 
-    .cajon.color-acento-botones.bg-color-6.p-4.mb-4
-      p.mb-0 En caso de alguna inquietud, no dude en escribirnos.
+    .row.justify-content-center
+      .col-lg-6
+        .cajon.color-acento-botones.bg-color-6.p-4.mb-4
+          p.mb-0.text-center En caso de alguna inquietud, no duden en escribirnos.
 
 
     

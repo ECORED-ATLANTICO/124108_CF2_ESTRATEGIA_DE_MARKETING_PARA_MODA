@@ -19,7 +19,7 @@
               .col-lg-auto.mb-3.mb-lg-0
                 img.d-lg-flex.d-none(src="@/assets/curso/tema4/2.svg").mx-auto
               .col-lg
-                p.mb-0 Dentro de la estructura de la estrategia digital, se tienen en cuenta una lista de acciones, donde se debe desarrollar una investigación previa, definir objetivos claros, determinar qué herramientas son útiles, ejecutar y realizar seguimiento de las tácticas propuestas y analizar los resultados. En la siguiente imagen, se observan estas acciones.
+                p.mb-0 Dentro de la estructura de la estrategia digital, se tienen en cuenta una lista de acciones, donde se debe desarrollar una investigación previa, definir objetivos claros, determinar qué herramientas son útiles, ejecutar y realizar seguimiento de las tácticas propuestas y analizar los resultados. En la siguiente imagen, se detallan estas acciones.
 
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-12
@@ -40,13 +40,13 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema4/4.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.d-block Hay una amplia variedad de opciones que las empresas pueden adoptar como estrategia digital para el logro de sus objetivos propuestos, todo esto teniendo en cuenta las herramientas con las que cuenta, el público al cual se dirige y el entorno en el que se desenvuelve. 
+            p.d-block Hay una amplia variedad de opciones que las empresas pueden adoptar como estrategia digital para el logro de sus objetivos propuestos, todo esto, teniendo en cuenta las herramientas con las que cuenta, el público al cual se dirige y el entorno en el que se desenvuelve. 
             p.mb-0 Según Xie (2019), algunas estrategias destacadas y sus objetivos se presentan en el siguiente video:
     
     figure
       .video.mb-2
         iframe(width="560" height="315" src="https://www.youtube.com/embed/ET6OSOWke5o" title="Tipos de estrategias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-      figcaption Nota. Adaptado de Xie (2019). Marketing digital: navegando en aguas digitales, sumérgete conmigo.
+   
 
     separador
     
