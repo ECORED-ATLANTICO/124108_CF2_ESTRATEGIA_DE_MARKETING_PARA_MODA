@@ -27,7 +27,7 @@
                   img(src="@/assets/curso/tema2/3.png", data-aos="zoom-in")
               .col-lg-7
                 .bg-color-9.px-5.py-4
-                  p.mb-0 A lo largo de la historia, el marketing se desenvolvió en diferentes fases que marcaron una ruta para su desarrollo, iniciando con los primeros tiempos de la humanidad, en la etapa de la autosuficiencia económica, donde no existía el marketing como tal. Se da a continuación una etapa de trueque, donde se empieza a vislumbrar el paso a seguir para los mercados locales, en un primer acercamiento a la comercialización. Seguido de esto, aparece la moneda, que agiliza diversos procesos; lo que da paso a la etapa de la Revolución Industrial y, a su vez, a la producción en masa. 
+                  p.mb-0 A lo largo de la historia, el <em>marketing</em> se desenvolvió en diferentes fases que marcaron una ruta para su desarrollo, iniciando con los primeros tiempos de la humanidad, en la etapa de la autosuficiencia económica, donde no existía el <em>marketing</em> como tal. Se da a continuación una etapa de trueque, donde se empieza a vislumbrar el paso a seguir para los mercados locales, en un primer acercamiento a la comercialización. Seguido de esto, aparece la moneda, que agiliza diversos procesos; lo que da paso a la etapa de la Revolución Industrial y, a su vez, a la producción en masa. 
             div.bg-color-sintesis.p-4
               .row.align-items-center
                 .col-lg-auto.mb-3.mb-lg-0
@@ -113,7 +113,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/13.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 También conocidas como el #[em marketing mix], donde se distinguen cuatro importantes aspectos a tener en cuenta para entender y desplegar una estrategia: consumidor, costo, conveniencia y comunicación. Este modelo fue propuesto por Robert F. Lauterborn, en 1990, quien vio la necesidad de actualizar al entorno digital el modelo del marketing tradicional de 4P (producto, precio, plaza y promoción), sin perder su esencia (Xie, 2019). En el siguiente gráfico, se aprecian las definiciones.
+            p.mb-0 También conocidas como el #[em marketing mix], donde se distinguen cuatro importantes aspectos a tener en cuenta para entender y desplegar una estrategia: consumidor, costo, conveniencia y comunicación. Este modelo fue propuesto por Robert F. Lauterborn, en 1990, quien vio la necesidad de actualizar al entorno digital el modelo del <em>marketing</em> tradicional de 4P (producto, precio, plaza y promoción), sin perder su esencia (Xie, 2019). En el siguiente gráfico, se aprecian las definiciones.
 
         .row.justify-content-center.align-items-center.mb-5
           .col-md-10.col-lg-6
